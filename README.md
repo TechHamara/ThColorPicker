@@ -13,6 +13,32 @@ A color picker component developed by TechHamara using Fast, allowing users to s
 📅 **Updated On:** [date=2025-06-10 timezone="Asia/Calcutta"]
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
 
+
+![NoneSelected_Event](https://github.com/user-attachments/assets/4472d9f0-18cd-4de3-a3e4-88b38a224466)
+![DialogDismissed_Event](https://github.com/user-attachments/assets/61a1084d-5453-4535-a534-edd93230d71f)
+![ColorSelected_Event](https://github.com/user-attachments/assets/bcc24700-081c-400f-8c94-3c42501e4ebc)
+
+-----
+
+![ColorFromHSV_Method](https://github.com/user-attachments/assets/eba04d7d-bfa2-41f6-b691-2e92261ef2d4)
+![ColorFromARGB_Method](https://github.com/user-attachments/assets/efa098af-7210-4947-a05f-df44a67e0e56)
+![ShowColorPicker_Method](https://github.com/user-attachments/assets/b1d1755f-e46b-418c-a0f6-1624fcea7f90)
+![SelectedColorHSV_Method](https://github.com/user-attachments/assets/b4f29c7e-2c88-4295-a09b-30ab3c2d111e)
+![SelectedColorHex_Method](https://github.com/user-attachments/assets/7da5dc12-b3a8-4395-96bc-c03c03faa591)
+![SelectedColorARGB_Method](https://github.com/user-attachments/assets/7042ff60-94c3-4980-a0d4-0a8de0c60aeb)
+![SelectedColor_Method](https://github.com/user-attachments/assets/54aabb51-2f5e-4b31-abbb-09b291ebba66)
+![InitialColor_Method](https://github.com/user-attachments/assets/680cc607-66bf-44cc-a78d-6d7a0989e820)
+
+-----
+
+![DefaultColor_Set_Property](https://github.com/user-attachments/assets/d66e5811-d0d7-49f1-8cbe-2f7892905ade)
+![DefaultColor_Get_Property](https://github.com/user-attachments/assets/d39a45d3-0db7-4af4-84e5-f80bf500ecd3)
+![ShowPreview_Set_Property](https://github.com/user-attachments/assets/11b2daff-b8ce-47dd-9ff7-94e5b9319e4a)
+![ShowPreview_Get_Property](https://github.com/user-attachments/assets/cf6f3e5d-6859-4dce-9b3b-b4a884235b1b)
+![SelectNoneButtonText_Set_Property](https://github.com/user-attachments/assets/0e9eb561-231e-4aaf-bdd8-9a9b296c75a0)
+![SelectNoneButtonText_Get_Property](https://github.com/user-attachments/assets/6cde0f91-ab47-4f06-aa92-0eb66e45a424)
+
+
 ## <kbd>Events:</kbd>
 **ThColorPicker** has total 3 events.
 
