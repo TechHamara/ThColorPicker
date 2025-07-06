@@ -15,6 +15,23 @@ A color picker component developed by TechHamara using Fast, allowing users to s
 ⬇️ Download Aix [here](https://buymeacoffee.com/techhamara/e/428909)<br>
 
 
+## Demo 
+
+![ThColorPickerblocks.png](https://github.com/user-attachments/assets/83b9bbbc-e7f6-4d63-8593-5e6bfe31cde9)
+
+
+![Screenshot_2025-07-05-21-55-26-940_appinventor.ai_Techhamara91.Color_Picker.jpg](https://github.com/user-attachments/assets/9c0c35fb-75f7-474e-b925-9801a1bc00b2)
+
+![Screenshot_2025-07-05-21-55-38-192_appinventor.ai_Techhamara91.Color_Picker.jpg](https://github.com/user-attachments/assets/71290bf3-8f1b-4e11-a63c-3b88461ffff0)
+
+![Screenshot_2025-07-05-21-56-02-538_appinventor.ai_Techhamara91.Color_Picker.jpg](https://github.com/user-attachments/assets/fd0432a7-a6ff-45ad-9e13-11bc36e31ac4)
+
+![Screenshot_2025-07-05-21-55-58-150_appinventor.ai_Techhamara91.Color_Picker.jpg](https://github.com/user-attachments/assets/4f6d96b0-5fb5-42b0-b96b-9ec45c2a146f)
+
+
+
+## Blocks 
+
 ![NoneSelected_Event](https://github.com/user-attachments/assets/4472d9f0-18cd-4de3-a3e4-88b38a224466)
 ![DialogDismissed_Event](https://github.com/user-attachments/assets/61a1084d-5453-4535-a534-edd93230d71f)
 ![ColorSelected_Event](https://github.com/user-attachments/assets/bcc24700-081c-400f-8c94-3c42501e4ebc)
