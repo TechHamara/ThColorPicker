@@ -6,12 +6,13 @@ A color picker component developed by TechHamara using Fast, allowing users to s
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.thcolorpicker
-💾 **Size:** 28.81 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 21
-📅 **Updated On:** [date=2025-06-10 timezone="Asia/Calcutta"]
-💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
+📦 **Package:** io.th.thcolorpicker<br>
+💾 **Size:** 28.81 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 21<br>
+📅 **Updated On:** [date=2025-06-10 timezone="Asia/Calcutta"]<br>
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
+⬇️ Download Aix [here](https://buymeacoffee.com/techhamara/e/428909)<br>
 
 
 ![NoneSelected_Event](https://github.com/user-attachments/assets/4472d9f0-18cd-4de3-a3e4-88b38a224466)
