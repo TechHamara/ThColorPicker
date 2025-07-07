@@ -13,7 +13,8 @@ A color picker component developed by TechHamara using Fast, allowing users to s
 📅 **Updated On:** [date=2025-06-10 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
 ⬇️ Download Aix [here](https://buymeacoffee.com/techhamara/e/428909)<br>
-
+🪧 
+Thank you **martin-stone** for your awesome [library](https://github.com/martin-stone/hsv-alpha-color-picker-android) 
 
 ## Demo 
 
